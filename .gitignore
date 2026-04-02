@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Node (for extensions)
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Env
+.env
+.env.local
